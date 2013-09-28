@@ -1,0 +1,13 @@
+
+[2013-09-28 13:30:58,150] WARN  |  | (com.driverscript.DriverScript) | warn ***** Test URL is: http://www.primefaces.org/showcase/ui/datatableComplex.jsf  *******
+[2013-09-28 13:30:58,151] INFO  |  | (com.driverscript.DriverScript) | info ***********Initializing WebDriver....************
+[2013-09-28 13:31:12,221] INFO  |  | (com.driverscript.DriverScript) | Verifying partial search functionality on Model column
+[2013-09-28 13:31:17,296] INFO  |  | (com.driverscript.DriverScript) | No. of rows in Result Set Data for the searched text : 3
+[2013-09-28 18:10:13,685] WARN  |  | (com.driverscript.DriverScript) | warn ***** Test URL is: http://www.primefaces.org/showcase/ui/datatableComplex.jsf  *******
+[2013-09-28 18:10:13,700] INFO  |  | (com.driverscript.DriverScript) | info ***********Initializing WebDriver....************
+[2013-09-28 18:10:53,437] INFO  |  | (com.driverscript.DriverScript) | Verifying partial search functionality on Model column
+[2013-09-28 18:10:58,498] INFO  |  | (com.driverscript.DriverScript) | No. of rows in Result Set Data for the searched text : 3
+[2013-09-28 19:56:05,863] WARN  |  | (com.driverscript.DriverScript) | warn ***** Test URL is: http://www.primefaces.org/showcase/ui/datatableComplex.jsf  *******
+[2013-09-28 19:56:05,877] INFO  |  | (com.driverscript.DriverScript) | info ***********Initializing WebDriver....************
+[2013-09-28 19:56:50,365] INFO  |  | (com.driverscript.DriverScript) | Verifying partial search functionality on Model column
+[2013-09-28 19:56:55,416] INFO  |  | (com.driverscript.DriverScript) | No. of rows in Result Set Data for the searched text : 5
