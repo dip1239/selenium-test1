@@ -22,8 +22,8 @@ public class DriverScript {
 	
 	public static void main(String[] args) throws IOException, InterruptedException 
 	{
-		String path = "./config/log-config.xml";
-		DOMConfigurator.configure(path);
+		String logPath = "./config/log-config.xml";
+		DOMConfigurator.configure(logPath);
 		
 		
 		//Logger logs = Logger.getLogger("devpinoyLogger");
