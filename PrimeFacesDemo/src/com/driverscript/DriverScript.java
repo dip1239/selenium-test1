@@ -25,7 +25,7 @@ public class DriverScript {
 		String logPath = "./config/log-config.xml";
 		DOMConfigurator.configure(logPath);
 		
-		
+		logger.debug("****************Starting DriverScript file***************");
 		//Logger logs = Logger.getLogger("devpinoyLogger");
 		String testURL=null;
 		
